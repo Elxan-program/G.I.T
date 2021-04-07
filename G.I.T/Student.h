@@ -6,4 +6,5 @@ class Student {
 	std::string name;
 	std::string surname;
 	int age;
+	int lalalaguna;
 };
