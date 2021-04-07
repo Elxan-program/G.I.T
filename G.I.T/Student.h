@@ -7,4 +7,8 @@ class Student {
 	std::string surname;
 	int age;
 	int lalalaguna;
+public:
+	void show() {
+		cout << name << surname;
+	}
 };
